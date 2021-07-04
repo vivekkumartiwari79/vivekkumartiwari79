@@ -2,7 +2,7 @@
 - 👀 I’m interested in :- Software Engineering & Software Developer
 - 🌱 I’m currently learning :- BCA Honors From AKS University Satna (M.P.)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :- 📱7909774918
+- 📫 How to reach me :- 📱
 
 <!---
 vivekkumartiwari79/vivekkumartiwari79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
