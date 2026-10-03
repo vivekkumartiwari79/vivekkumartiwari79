@@ -8,8 +8,10 @@ I build eCommerce, healthcare, portfolio, booking, and business websites with a 
 
 ## Tech & Tools
 
-**Development:** HTML5 · CSS3 · JavaScript · jQuery · Bootstrap · Responsive Web Design  
-**CMS & Commerce:** WordPress · WooCommerce · Shopify · eCommerce Implementation  
+**Development:** HTML5 · CSS3 · JavaScript · jQuery · Bootstrap · Responsive Web Design
+
+**CMS & Commerce:** WordPress · WooCommerce · Shopify · eCommerce Implementation
+
 **Design:** Figma · Adobe XD · Canva · Photoshop · Wireframing · Prototyping
 
 ## Selected Work
@@ -29,6 +31,16 @@ I build eCommerce, healthcare, portfolio, booking, and business websites with a 
 - eCommerce and booking experiences
 - UI/UX design, wireframes, and responsive prototypes
 - Website redesign, performance improvements, and ongoing support
+
+## Certifications & Training
+
+- [JavaScript Basics](https://coursera.org/verify/7JCDC6SGX9CP) — University of California, Davis / Coursera (2022)
+- [Introduction to Google Workspace Administration](https://coursera.org/verify/3RGSZVCGN7DP) — Google Cloud / Coursera (2022)
+- [AI For Everyone](https://coursera.org/verify/MCLXSR278NQF) — DeepLearning.AI / Coursera (2021)
+- AWS Cloud Computing — One-month training, AKS University (2021)
+- AI Tools & ChatGPT Workshop — be10x (2025)
+- Containers & Kubernetes — AKS University / Rostris Infotech (2021)
+- Cyber Security Measures For Youth — Webinar (2021)
 
 ## Contact
 
