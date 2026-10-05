@@ -24,12 +24,13 @@ I am an Indore-based freelance developer with **4+ years of hands-on experience*
 
 ## Featured Case Studies
 
-| Repository | Focus |
+| Project | Focus |
 |---|---|
+| [AK Store](https://akstore.co.in/) | Grocery eCommerce catalogue, search, cart and account journeys |
 | [Plumbing Bazzar eCommerce](https://github.com/vivekkumartiwari79/plumbingbazzar-ecommerce) | Large sanitaryware catalogue, cart, enquiries and estimate workflows |
 | [GrocyPay Platform](https://github.com/vivekkumartiwari79/grocypay-platform) | Discovery, booking, membership and rewards-oriented experience |
 | [B'Premium Catalogue](https://github.com/vivekkumartiwari79/bpremium-catalog) | Premium fabric catalogue, PDF access and enquiry conversion |
-| [CVefy Resume Builder](https://github.com/vivekkumartiwari79/cvefy-resume-builder) | Career-services and professional resume platform |
+| [CVefy Resume Platform](https://github.com/vivekkumartiwari79/cvefy-resume-builder) | Career-services and professional resume platform |
 | [Hurrywell eCommerce](https://github.com/vivekkumartiwari79/hurrywell-ecommerce) | Ayurvedic product discovery and online shopping |
 | [Manorog & Dhwani](https://github.com/vivekkumartiwari79/manorog-dhwani) | Healthcare information and appointment-focused UX |
 
@@ -39,6 +40,7 @@ These are live products and websites I have worked on across freelance and profe
 
 | Project | Domain | Live Website |
 |---|---|---|
+| AK Store | Grocery eCommerce | [Visit](https://akstore.co.in/) |
 | Plumbing Bazzar | Sanitaryware eCommerce | [Visit](https://plumbingbazzar.com/) |
 | CVefy | Resume & career services | [Visit](https://cvefy.com/) |
 | Hurrywell | Ayurvedic eCommerce | [Visit](https://hurrywell.in/) |
@@ -55,6 +57,9 @@ These are live products and websites I have worked on across freelance and profe
 <details>
 <summary><strong>View live project screenshots</strong></summary>
 <br>
+
+### AK Store
+![AK Store](akstore.png)
 
 ### Plumbing Bazzar
 ![Plumbing Bazzar](plumbingbazzar.png)
