@@ -2,7 +2,7 @@
 
 ## Experienced Full-Stack Developer & UI/UX Designer
 
-I am an Indore-based freelance developer with **4+ years of hands-on experience** creating responsive websites, eCommerce experiences, business platforms and conversion-focused interfaces. I work across discovery, UI/UX, development, CMS implementation, integrations, optimization and launch.
+I am an Indore-based freelance developer with **5+ years of hands-on experience** creating responsive websites, eCommerce experiences, business platforms and conversion-focused interfaces. I work across discovery, UI/UX, development, CMS implementation, integrations, optimization and launch.
 
 [Portfolio](https://vk-designs.in/) · [LinkedIn](https://www.linkedin.com/in/vivek-k-t) · [View My Work](#selected-production-work)
 
